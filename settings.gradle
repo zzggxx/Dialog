@@ -1,1 +1,1 @@
-include ':DialogFragment'
+include ':DialogFragment', ':Dialog'
